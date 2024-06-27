@@ -1,0 +1,12 @@
+{
+    "info": {
+        "description": "ISAT",
+        "folder": "D:/desktop/ISAT_with_segment_anything/input",
+        "name": "013.png",
+        "width": 1024,
+        "height": 1024,
+        "depth": 3,
+        "note": ""
+    },
+    "objects": []
+}

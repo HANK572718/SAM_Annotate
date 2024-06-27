@@ -1,0 +1,7 @@
+label:
+- color: '#800000'
+  name: __background__
+- color: '#008000'
+  name: knife
+- color: '#808000'
+  name: person
