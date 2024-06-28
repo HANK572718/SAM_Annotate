@@ -23,7 +23,7 @@ label:
   name: hat
 software:
   auto_save: true
-  contour_mode: all
+  contour_mode: max_only
   language: zh
   mask_alpha: 1.0
   show_edge: true
